@@ -41,8 +41,8 @@ This application allows you to manage multiple todo projects, add and update tod
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/Abhinand1999/Project-Task
+    cd Project-Task
     ```
 
 2. **Navigate to the backend directory:**
