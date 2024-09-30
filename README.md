@@ -89,7 +89,8 @@ npm test
 
 1. Navigate to the frontend directory:
    ```bash
-   cd ../frontend```
+   cd ../frontend
+   ```
 
 2. Install frontend dependencies:
 ```bash
