@@ -81,10 +81,6 @@ npm test
 ```
 
 
-### Explanation:
-- Each command (`cd backend`, `npm test`) is wrapped in a code block using triple backticks (` ```bash `).
-- Tools like **Jest** and **Supertest** are bolded (`**`) for emphasis.
-- The description clearly explains what testing frameworks are used and the commands required to execute the tests.
 
 
 
