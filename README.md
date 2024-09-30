@@ -64,6 +64,7 @@ This application allows you to manage multiple todo projects, add and update tod
 **Run the backend server:**
 ```bash
 npm start
+```
 
 
 
